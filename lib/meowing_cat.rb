@@ -2,4 +2,5 @@
 class Cat
   attr_accessor :cat
 
+"Maru" = Cat.new
 end
