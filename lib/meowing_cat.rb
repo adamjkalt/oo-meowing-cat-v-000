@@ -5,7 +5,7 @@ class Cat
 maru = Cat.new
 maru.cat = "Maru"
 
-def meowing_cat
+def meow
   puts "meow"
 end
 
