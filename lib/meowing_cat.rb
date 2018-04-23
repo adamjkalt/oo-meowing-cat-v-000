@@ -7,6 +7,7 @@ class Cat
 def meowing_cat
   puts "meow"
 end
-end
+
+Maru.meow
 
 end
