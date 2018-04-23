@@ -4,12 +4,12 @@ class Cat
 end
 
 "Maru" = Cat.new
+end
 
 def meowing_cat
   puts "meow"
 end
 
-Maru.meow
 
 end
 end
