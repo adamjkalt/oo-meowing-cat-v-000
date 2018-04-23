@@ -1,6 +1,6 @@
 ## code your solution here.
 class Cat
 
-cat.new
+"Maru" = cat.new
 
 end
