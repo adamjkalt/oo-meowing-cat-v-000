@@ -1,6 +1,5 @@
 ## code your solution here.
 class Cat
-
-"Maru" = cat.new
+  attr_accessor :cat
 
 end
