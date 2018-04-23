@@ -1,6 +1,6 @@
 ## code your solution here.
 class Cat
-  attr_accessor :cat, :name, :meowing_cat
+  attr_accessor :cat, :name, :meow
 
 maru = Cat.new
 maru.cat = "Maru"
